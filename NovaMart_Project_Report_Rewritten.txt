@@ -1,0 +1,610 @@
+NOVAMART RETAIL
+SALES AND PROFITABILITY INVESTIGATION
+
+PROJECT TITLE
+Why Are Sales Growing but Profit Falling? — A Sales and Profitability Investigation for NovaMart Retail
+
+ROLE
+Sales and Business Data Analyst
+
+BUSINESS
+NovaMart Retail is a fictional Nigerian consumer retail business.
+
+REPORTING PERIOD
+January–December 2025
+
+DATASET
+7,500 sales transactions
+
+
+1. EXECUTIVE SUMMARY
+
+NovaMart Retail management raised a simple but important concern: the business was receiving more orders, but the increase in sales activity was not translating into the expected level of profit.
+
+This investigation examines revenue, profit, margins, products, customers, sales channels and discounts to determine what changed during 2025 and where management should focus its attention.
+
+The H1 versus H2 results show that NovaMart's main problem is profitability. Revenue declined from approximately NGN351.45 million in H1 2025 to NGN325.79 million in H2, a 7.3% decline. Profit fell from approximately NGN82.29 million to NGN55.16 million, a 32.9% decline.
+
+The difference between these two declines is significant. Profit fell much faster than revenue, showing that NovaMart was retaining substantially less profit from its sales in H2.
+
+The channel results reinforce this. Online orders increased by 2.6%, while online profit fell by 32.5%. Social Media also weakened, with orders down 9.7%, revenue down 14.7% and profit down 36.4%.
+
+At product level, Premium Smartphones sold 1.0% more units but generated 44.4% less profit. Wireless Earbuds showed a similar volume-to-profit gap: quantity increased from 767 to 848 and revenue increased from approximately NGN21.80 million to NGN22.25 million, but profit fell from approximately NGN5.67 million to NGN4.46 million. The reported discount also increased from 36.95 to 65.65.
+
+The results show that NovaMart should not measure growth using orders, units or revenue alone. Pricing, discounts, product mix and channel profitability need to be reviewed together.
+
+
+2. BUSINESS PROBLEM
+
+NovaMart's management complaint was:
+
+“We are getting more orders, but we are not making as much money as expected. We need to understand what is happening and what we should do next.”
+
+The investigation was therefore built around one central question:
+
+Why is NovaMart generating sales activity without achieving proportional profit?
+
+The analysis considers:
+
+- Revenue
+- Cost
+- Profit
+- Profit margin
+- Orders
+- Units sold
+- Products and categories
+- Regions
+- Sales channels
+- New and returning customers
+- Discounts
+
+
+3. PROJECT OBJECTIVES
+
+The objectives of the investigation were to:
+
+1. Clean and validate the sales dataset.
+2. Analyze revenue, cost, profit and profit margin.
+3. Investigate monthly performance.
+4. Compare products and categories.
+5. Compare regions.
+6. Compare sales channels.
+7. Compare new and returning customers.
+8. Investigate the effect of discounts on profitability.
+9. Identify the biggest business problems.
+10. Provide practical recommendations to management.
+
+
+4. DATASET OVERVIEW
+
+The dataset contains 7,500 sales transactions covering January to December 2025.
+
+It represents sales activity for a fictional Nigerian consumer retail business and provides the basis for examining financial performance, customer behaviour, product performance and channel performance.
+
+The analysis covers:
+
+Financial performance:
+- Revenue
+- Cost
+- Profit
+- Profit margin
+
+Sales performance:
+- Orders
+- Units sold
+- Monthly performance
+
+Product performance:
+- Products
+- Categories
+- Product-level profitability
+
+Customer performance:
+- New customers
+- Returning customers
+
+Channel performance:
+- Online
+- Physical Store
+- Social Media
+
+Additional business factors:
+- Regions
+- Discounts
+
+
+5. PROJECT METHODOLOGY
+
+The project followed the complete analysis workflow:
+
+RAW DATA → CLEANING → ANALYSIS → DASHBOARD → INSIGHTS → RECOMMENDATIONS
+
+DATA CLEANING AND VALIDATION
+
+The transaction data was prepared for analysis by reviewing the dataset structure, checking data quality and validating the fields required for the calculations and comparisons.
+
+FINANCIAL ANALYSIS
+
+Revenue, cost, profit and profit margin were examined to understand whether sales activity was translating into financial performance.
+
+SALES ANALYSIS
+
+Orders and units sold were compared across periods to determine whether changes in volume explained the movement in revenue and profit.
+
+TIME ANALYSIS
+
+Performance was compared between H1 and H2 2025. Monthly performance was also included in the investigation to identify changes throughout the year.
+
+PRODUCT ANALYSIS
+
+Products and categories were compared using sales and profitability measures. This prevents high-volume products from being treated as successful when their profit contribution is weak.
+
+CHANNEL ANALYSIS
+
+Online, Physical Store and Social Media were compared using orders, revenue and profit.
+
+CUSTOMER ANALYSIS
+
+New and returning customers were considered to determine whether customer mix and purchasing behaviour could be associated with the profitability decline.
+
+DISCOUNT ANALYSIS
+
+Discounts were examined because changes in discounting can increase sales activity while reducing profit per transaction.
+
+DASHBOARD DEVELOPMENT
+
+The results were brought together in a management dashboard comparing H1 and H2 performance and highlighting the main issues and actions.
+
+
+6. KEY PERFORMANCE INDICATORS
+
+H2 Revenue: NGN325.79 million
+
+H2 Profit: NGN55.2 million
+
+H2 Profit Margin: 18.7%
+
+H2 Orders: 3,741
+
+H2 Units Sold: 7,343
+
+These figures provide the headline view of NovaMart's H2 performance. The business continued to generate significant sales activity, but the amount of profit generated from that activity fell considerably.
+
+
+7. H1 VS H2 FINANCIAL PERFORMANCE
+
+REVENUE
+
+H1 Revenue: Approximately NGN351.45 million
+H2 Revenue: Approximately NGN325.79 million
+Change: -7.3%
+
+Revenue declined by approximately NGN25.66 million in H2.
+
+PROFIT
+
+H1 Profit: Approximately NGN82.29 million
+H2 Profit: Approximately NGN55.16 million
+Change: -32.9%
+
+Profit declined by approximately NGN27.13 million.
+
+INTERPRETATION
+
+Revenue decreased by 7.3%, while profit decreased by 32.9%. The decline in profit was therefore much larger than the decline in revenue.
+
+This indicates that the business was not only selling less in H2; it was also generating less profit from the sales it made.
+
+For management, the implication is straightforward: increasing order volume without protecting margins may not solve the underlying problem.
+
+
+8. PROFIT MARGIN
+
+The dashboard reports an H2 profit margin of 18.7%.
+
+Profit margin measures the amount of profit retained from revenue. It is important because a business can generate substantial revenue while its profitability weakens.
+
+Factors that can place pressure on margin include:
+
+- Higher discounts
+- Lower selling prices
+- Changes in product mix
+- Higher costs
+- Lower-margin sales channels
+- Increased sales of products with weaker margins
+
+NovaMart should therefore monitor profit margin alongside revenue, orders and units sold.
+
+
+9. SALES CHANNEL ANALYSIS
+
+NovaMart's dashboard compares Online, Physical Store and Social Media.
+
+ONLINE CHANNEL
+
+Online orders increased by 2.6%, but online profit fell by 32.5%.
+
+This is one of the clearest warning signs in the analysis. The channel generated more orders without generating corresponding profit.
+
+Management should investigate:
+
+- Discount levels
+- Product mix
+- Average selling price
+- Profit per order
+- Customer type
+- Product-level margins
+- Costs associated with online transactions
+
+PHYSICAL STORE
+
+The Physical Store remained an important sales channel. Its performance should be assessed using revenue and profit together rather than revenue alone.
+
+The key question is not only how much the channel sells, but how much profit it contributes after the economics of those sales are considered.
+
+SOCIAL MEDIA
+
+Social Media recorded declines across all three major measures:
+
+Orders: -9.7%
+Revenue: -14.7%
+Profit: -36.4%
+
+Profit therefore declined considerably faster than orders and revenue.
+
+Management should review:
+
+- Promotional activity
+- Discounting
+- Products being promoted
+- Campaign performance
+- Conversion
+- Revenue per order
+- Profit generated by Social Media sales
+
+
+10. PRODUCT PERFORMANCE
+
+Product-level results show why units sold should not be used as the only measure of product success.
+
+PREMIUM SMARTPHONES
+
+Premium Smartphone unit sales increased by 1.0% in H2, but profit decreased by 44.4%.
+
+NovaMart therefore sold slightly more units while generating substantially less profit from the product.
+
+Premium Smartphones should be evaluated using:
+
+- Units sold
+- Revenue
+- Profit
+- Profit margin
+- Average selling price
+- Discount
+
+WIRELESS EARBUDS
+
+H1:
+- Unit price sum: NGN10,474,500
+- Profit sum: NGN5,671,609
+- Revenue: NGN21,800,309
+- Quantity: 767
+- Discount: 36.95
+
+H2:
+- Unit price sum: NGN11,733,500
+- Profit sum: NGN4,462,166
+- Revenue: NGN22,251,566
+- Quantity: 848
+- Discount: 65.65
+
+Between H1 and H2, quantity increased from 767 to 848 and revenue increased from approximately NGN21.80 million to NGN22.25 million. Profit, however, decreased from approximately NGN5.67 million to NGN4.46 million.
+
+The reported discount also increased from 36.95 to 65.65.
+
+This is another example of higher sales activity occurring alongside weaker profitability.
+
+
+11. DISCOUNT AND PROFITABILITY ANALYSIS
+
+Discounting is a key area for management review.
+
+A discount can increase sales volume, but if the reduction in selling price is greater than the additional profit created by the extra volume, the promotion can reduce overall profitability.
+
+The Wireless Earbuds results illustrate this relationship. The reported discount increased from 36.95 in H1 to 65.65 in H2. Quantity increased from 767 to 848 and revenue increased from approximately NGN21.80 million to NGN22.25 million. Despite this, profit decreased from approximately NGN5.67 million to NGN4.46 million.
+
+NovaMart should therefore assess promotions using profit as a core measure, not only sales volume.
+
+Questions for ongoing discount analysis should include:
+
+- Which products receive the largest discounts?
+- Which discounts generate additional volume?
+- Which promotions reduce profit?
+- Which products remain profitable after discounting?
+- How does discount level relate to profit margin?
+
+
+12. CUSTOMER ANALYSIS
+
+The project includes analysis of new versus returning customers. The dashboard findings indicate stronger returning-customer activity in H2.
+
+Customer activity should be assessed alongside profitability. NovaMart should compare new and returning customers by:
+
+- Orders
+- Revenue
+- Profit
+- Average order value
+- Discount received
+- Products purchased
+- Sales channel
+- Profit margin
+
+This will help determine whether customer mix is contributing to the change in profitability.
+
+
+13. MONTHLY PERFORMANCE ANALYSIS
+
+A monthly view is important because an H1 versus H2 comparison can hide the exact point at which performance began to change.
+
+The monthly analysis should track:
+
+- Revenue
+- Profit
+- Profit margin
+- Orders
+- Units sold
+- Discounts
+- Channel performance
+
+Months where revenue remains relatively strong but profit weakens should be investigated against changes in discounting, product mix, pricing, customer mix and sales channels.
+
+
+14. REGIONAL PERFORMANCE ANALYSIS
+
+Regional performance should be evaluated using:
+
+- Revenue
+- Profit
+- Profit margin
+- Orders
+- Units sold
+
+A region can generate high revenue without making a strong contribution to profit. Regions with high sales and weak margins should therefore be investigated for differences in product mix, discounting, customer behaviour, channel usage and pricing.
+
+This analysis can determine whether the profitability problem is concentrated in particular regions or is occurring across the business.
+
+
+15. KEY BUSINESS FINDINGS
+
+1. PROFIT DECLINED MUCH FASTER THAN REVENUE
+
+Revenue fell by 7.3%, while profit fell by 32.9%. This indicates significant pressure on profitability.
+
+2. ONLINE ORDERS GREW WHILE ONLINE PROFIT FELL
+
+Online orders increased by 2.6%, but online profit decreased by 32.5%.
+
+3. SOCIAL MEDIA PERFORMANCE DECLINED
+
+Social Media orders fell by 9.7%, revenue fell by 14.7%, and profit fell by 36.4%.
+
+4. PREMIUM SMARTPHONES SOLD MORE BUT GENERATED LESS PROFIT
+
+Units increased by 1.0%, while profit declined by 44.4%.
+
+5. WIRELESS EARBUDS SHOWED A VOLUME-TO-PROFIT GAP
+
+Quantity and revenue increased in H2, but profit decreased while the reported discount increased substantially.
+
+6. DISCOUNTING REQUIRES CLOSER CONTROL
+
+The results show why promotions should be evaluated according to their effect on profit, not simply the number of sales they generate.
+
+7. SALES VOLUME ALONE IS NOT A SUFFICIENT PERFORMANCE MEASURE
+
+NovaMart needs to evaluate orders, units and revenue alongside profit and margin.
+
+
+16. RECOMMENDATIONS
+
+RECOMMENDATION 1: REVIEW PRICING AND DISCOUNT STRATEGIES
+
+NovaMart should identify products where discounts reduce profit without generating enough additional sales to compensate.
+
+Management should:
+
+- Set discount limits.
+- Review heavily discounted products.
+- Compare profit before and after promotions.
+- Test lower discount levels where appropriate.
+- Redesign promotions that consistently weaken profitability.
+
+RECOMMENDATION 2: PRIORITIZE PROFITABLE PRODUCTS
+
+Products should be evaluated using both sales performance and profitability.
+
+NovaMart should identify:
+
+- High-volume, high-profit products
+- High-volume, low-profit products
+- Low-volume, high-profit products
+- Low-volume, low-profit products
+
+The Premium Smartphone result demonstrates why this classification is necessary.
+
+RECOMMENDATION 3: INVESTIGATE THE ONLINE PROFIT DECLINE
+
+The 2.6% increase in online orders alongside a 32.5% decline in online profit requires detailed investigation.
+
+Management should examine discounts, product mix, average selling price, profit per order, customer type, product margins and online transaction costs.
+
+RECOMMENDATION 4: REASSESS SOCIAL MEDIA PERFORMANCE
+
+Social Media should be reviewed using both sales and financial measures. Management should examine campaign performance, promotional costs, discount levels, products promoted, orders, revenue and profit.
+
+RECOMMENDATION 5: TRACK PROFIT MARGIN ALONGSIDE SALES
+
+Regular management reporting should include:
+
+- Revenue
+- Profit
+- Profit margin
+- Orders
+- Units sold
+- Profit per order
+- Discount level
+
+RECOMMENDATION 6: SEGMENT NEW AND RETURNING CUSTOMERS
+
+Customer groups should be compared by profitability, not simply customer count. This will show which groups generate stronger margins and how their purchasing behaviour differs.
+
+RECOMMENDATION 7: SET PROFITABILITY TARGETS FOR PROMOTIONS
+
+Each major promotion should have defined targets for product, customer, expected orders, expected revenue, expected profit, maximum discount and minimum acceptable margin. Actual results should be compared with those targets after the promotion.
+
+
+17. MANAGEMENT ACTION PLAN
+
+IMMEDIATE ACTIONS — 0 TO 30 DAYS
+
+1. Identify products with the largest profit declines.
+2. Review products receiving the highest discounts.
+3. Investigate the online profit decline.
+4. Review Social Media performance.
+5. Identify high-revenue products with weak margins.
+6. Add profit margin and profit-per-order tracking to management reports.
+
+SHORT-TERM ACTIONS — 30 TO 60 DAYS
+
+1. Test revised discount levels.
+2. Review product pricing.
+3. Identify profitable products for stronger promotion.
+4. Segment new and returning customers.
+5. Compare profitability across sales channels.
+6. Review regional profitability.
+
+MEDIUM-TERM ACTIONS — 60 TO 90 DAYS
+
+1. Establish a recurring profitability monitoring system.
+2. Set discount approval thresholds.
+3. Establish channel-level profitability targets.
+4. Monitor product-level margins monthly.
+5. Use the dashboard as a recurring management reporting tool.
+
+
+18. DASHBOARD OVERVIEW
+
+The NovaMart Sales and Profitability Dashboard was designed to give management a clear H1 versus H2 view of the business.
+
+The dashboard contains:
+
+- H2 Profit KPI
+- H2 Revenue KPI
+- Profit Margin KPI
+- Orders KPI
+- Units Sold KPI
+- Revenue versus Profit chart
+- Sales channel comparison
+- Product comparison
+- Key Insights section
+- Recommendations section
+
+The dashboard turns transaction-level information into a management view of the business. It brings the financial, sales, product and channel findings together so that the most important changes can be identified quickly.
+
+The main story shown by the dashboard is that revenue declined, profit declined much faster, online orders increased while online profit declined, Social Media weakened, and several products experienced a gap between sales volume and profitability.
+
+
+19. BUSINESS IMPACT
+
+The analysis shows why NovaMart should change the way it evaluates performance.
+
+A conventional sales report may focus on orders, units sold and revenue. These measures are useful, but they do not show whether the business is making enough money from those sales.
+
+NovaMart's results provide several examples:
+
+- Online orders increased, but online profit fell.
+- Premium Smartphone units increased, but product profit fell.
+- Wireless Earbuds quantity and revenue increased, but profit fell.
+
+The business therefore needs a profitability-focused reporting approach.
+
+The important question is not only:
+
+“How much did we sell?”
+
+It is also:
+
+“How much profit did we generate from what we sold?”
+
+
+20. CONCLUSION
+
+The NovaMart Retail investigation shows a clear deterioration in profitability during H2 2025.
+
+Revenue declined by 7.3%, from approximately NGN351.45 million in H1 to NGN325.79 million in H2.
+
+Profit declined by 32.9%, from approximately NGN82.29 million to NGN55.16 million.
+
+The much larger decline in profit shows that NovaMart's problem extends beyond the amount of revenue generated.
+
+Online orders increased by 2.6%, but online profit declined by 32.5%. Social Media also recorded significant declines, with orders falling by 9.7%, revenue falling by 14.7% and profit falling by 36.4%.
+
+Premium Smartphones sold 1.0% more units but generated 44.4% less profit.
+
+Wireless Earbuds generated more quantity and slightly more revenue in H2, but profit declined from approximately NGN5.67 million to NGN4.46 million while the reported discount increased from 36.95 to 65.65.
+
+These results show that NovaMart should not rely on sales volume as its main measure of growth. Pricing, discounts, product mix and channel economics need to be reviewed together.
+
+The immediate priority is to identify where margin is being lost, understand why online sales are becoming less profitable, review Social Media performance, and tighten the way discounts and product profitability are managed.
+
+The central business finding is:
+
+NOVAMART'S MAIN CHALLENGE IS NOT SIMPLY GENERATING SALES. IT IS TURNING SALES INTO PROFITABLE GROWTH.
+
+
+21. KEY TAKEAWAYS
+
+- H2 revenue: NGN325.79 million.
+- H2 profit: approximately NGN55.16 million.
+- H2 profit margin: 18.7%.
+- H2 orders: 3,741.
+- H2 units sold: 7,343.
+- H1 revenue: approximately NGN351.45 million.
+- H1 profit: approximately NGN82.29 million.
+- Revenue declined by 7.3%.
+- Profit declined by 32.9%.
+- Online orders increased by 2.6%.
+- Online profit declined by 32.5%.
+- Social Media orders declined by 9.7%.
+- Social Media revenue declined by 14.7%.
+- Social Media profit declined by 36.4%.
+- Premium Smartphone units increased by 1.0%.
+- Premium Smartphone profit declined by 44.4%.
+- Wireless Earbuds quantity increased from 767 to 848.
+- Wireless Earbuds revenue increased from approximately NGN21.80 million to NGN22.25 million.
+- Wireless Earbuds profit decreased from approximately NGN5.67 million to NGN4.46 million.
+- The reported Wireless Earbuds discount increased from 36.95 to 65.65.
+- Pricing and discount strategies require review.
+- Product and channel profitability should be monitored alongside sales volume.
+- Management should focus on profitable growth rather than sales volume alone.
+
+
+22. PROJECT DELIVERABLE
+
+The project follows the complete business analysis process:
+
+RAW DATA
+↓
+CLEANING
+↓
+ANALYSIS
+↓
+DASHBOARD
+↓
+INSIGHTS
+↓
+RECOMMENDATIONS
+
+The final deliverable demonstrates the process of taking transaction data, examining business performance, identifying the areas creating financial pressure, presenting the findings through a dashboard and converting those findings into practical management actions.
+
+END OF REPORT
