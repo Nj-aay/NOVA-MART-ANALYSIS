@@ -2,13 +2,13 @@
 SALES & PROFITABILITY INVESTIGATION
 
 Project Title:
-Why Are Sales Growing but Profit Falling? — A Sales & Profitability Investigation for NovaMart Retail
+Why Are Sales Growing but Profit Falling? A Sales & Profitability Investigation for NovaMart Retail
 
 Prepared by:
 Sales & Business Data Analyst
 
 Business:
-NovaMart Retail — Fictional Nigerian Consumer Retail Business
+NovaMart Retail (Fictional Nigerian Consumer Retail Business)
 
 Reporting Period:
 January–December 2025
@@ -112,62 +112,47 @@ Channel performance:
 5. ANALYTICAL APPROACH
 The investigation followed a business-analysis workflow.
 
-STEP 1 — DATA CLEANING AND VALIDATION
+STEP 1 DATA CLEANING AND VALIDATION
 
-The first stage of the project is to ensure that the transaction data is suitable for analysis. This includes checking the structure and quality of the data, validating fields, checking for inconsistencies and preparing the dataset for analysis.
-
+The first stage of the project was to ensure that the transaction data is suitable for analysis. This includes checking the structure and quality of the data, validating fields, checking for inconsistencies and preparing the dataset for analysis.
 The purpose of cleaning is to reduce the risk of producing misleading business conclusions from incomplete, duplicated, inconsistent or incorrectly formatted records.
 
-STEP 2 — KPI ANALYSIS
-
+STEP 2  KPI ANALYSIS
 Core business KPIs were calculated and compared across periods.
-
 These include:
-
 - Revenue
 - Profit
 - Profit Margin
 - Orders
 - Units Sold
 
-STEP 3 — TIME-BASED ANALYSIS
-
+STEP 3 TIME-BASED ANALYSIS
 Performance was investigated across the year and compared between:
-
 - H1 2025
 - H2 2025
-
 This makes it possible to identify whether the business deteriorated gradually or whether the main change occurred in the second half of the year.
 
-STEP 4 — PRODUCT ANALYSIS
-
+STEP 4  PRODUCT ANALYSIS
 Products were compared using sales and profitability measures.
-
 This prevents management from judging products based only on units sold or revenue.
 
-STEP 5 — CHANNEL ANALYSIS
-
+STEP 5  CHANNEL ANALYSIS
 The performance of Online, Physical Store and Social Media channels was compared using:
-
 - Orders
 - Revenue
 - Profit
 
-STEP 6 — CUSTOMER ANALYSIS
-
+STEP 6 CUSTOMER ANALYSIS
 New versus returning customer activity was considered to understand customer behavior and whether changes in customer mix could be associated with the profitability problem.
 
-STEP 7 — DISCOUNT ANALYSIS
-
+STEP 7 DISCOUNT ANALYSIS
 Discounting was investigated because aggressive discounts can increase sales activity while reducing the amount of profit generated per sale.
 
-STEP 8 — DASHBOARD DEVELOPMENT
-
+STEP 8  DASHBOARD DEVELOPMENT
 The findings were consolidated into a management dashboard comparing H1 and H2 performance and highlighting the most important business issues.
 
 6. KEY PERFORMANCE INDICATORS
 The dashboard reports the following H2 headline KPIs:
-
 H2 Profit:
 NGN55.2 million
 
@@ -187,62 +172,41 @@ These figures provide the starting point for understanding NovaMart's second-hal
 
 The most important observation is that the business still generated substantial revenue and sales activity in H2, but profit deteriorated significantly.
 
-============================================================
 7. H1 VS H2 FINANCIAL PERFORMANCE
-============================================================
 
 REVENUE
-
 H1 Revenue:
 Approximately NGN351.45 million
-
-H2 Revenue:
+H2 Reveue:
 Approximately NGN325.79 million
-
 Change:
 -7.3%
-
 Revenue therefore declined by approximately NGN25.66 million.
-
 This means the business generated less sales value in H2 than in H1.
 
 PROFIT
-
 H1 Profit:
 Approximately NGN82.29 million
-
 H2 Profit:
 Approximately NGN55.16 million
-
 Change:
 -32.9%
-
 Profit therefore declined by approximately NGN27.13 million.
-
 This is substantially larger than the revenue decline.
 
 BUSINESS INTERPRETATION
-
 The difference between the revenue decline and the profit decline is one of the most important findings in the investigation.
-
 Revenue declined by 7.3%, while profit declined by 32.9%.
-
 This means the business's profitability deteriorated much faster than its sales value.
 
 In practical terms, NovaMart was not only dealing with lower revenue; it was also retaining considerably less profit from the revenue it generated.
-
 This is why management should not focus only on increasing order volume. The business needs to understand what is happening to margins.
 
 8. PROFIT MARGIN
-
-
 H2 profit margin shown on the dashboard:
 18.7%
-
 Profit margin is important because it measures the amount of profit retained from revenue.
-
 A business can increase sales while becoming less profitable if:
-
 - Prices are reduced too aggressively.
 - Discounts are too high.
 - Product mix shifts toward lower-margin products.
@@ -259,21 +223,14 @@ The dashboard specifically recommends tracking profit margin alongside sales per
 NovaMart's channels were compared across Online, Physical Store and Social Media.
 
 ONLINE CHANNEL
-
 Online orders increased by:
 +2.6%
-
 Online profit decreased by:
 -32.5%
-
 This is a major profitability warning.
-
 The channel generated more orders but substantially less profit.
-
 The result suggests that NovaMart should investigate what changed in the economics of online transactions.
-
 Possible areas for investigation within the dataset include:
-
 - Discount levels
 - Product mix
 - Average selling price
@@ -281,26 +238,18 @@ Possible areas for investigation within the dataset include:
 - Profit per order
 - Customer type
 - Promotional activity
-
 The key point is that online order growth should not automatically be treated as successful performance when profit is falling.
 
 PHYSICAL STORE
-
 The Physical Store remained one of the major channels in the dashboard comparison.
-
 Its performance should be assessed using revenue and profit together rather than revenue alone.
-
 For management, the relevant question is not simply “Which channel sells more?” but:
-
 “Which channel creates sustainable profit after considering the economics of its sales?”
 
 SOCIAL MEDIA
-
 Social Media was the weakest-performing channel highlighted in the dashboard.
-
 Orders:
 -9.7%
-
 Revenue:
 -14.7%
 
@@ -581,7 +530,7 @@ NovaMart should compare new and returning customers based on profitability, not 
 
 This will help identify which customer groups generate stronger margins and which groups are more discount-dependent.
 
-RECOMMENDATION 7 — CREATE A PROFITABILITY-FOCUSED PROMOTION FRAMEWORK
+RECOMMENDATION 7  CREATE A PROFITABILITY-FOCUSED PROMOTION FRAMEWORK
 
 Before launching a promotion, NovaMart should define:
 
@@ -597,7 +546,7 @@ After the promotion, actual results should be compared with these targets.
 
 17. MANAGEMENT ACTION PLAN
 
-IMMEDIATE — 0 TO 30 DAYS
+IMMEDIATE  0 TO 30 DAYS
 
 1. Review products with the largest profit declines.
 2. Review products receiving the largest discounts.
@@ -606,7 +555,7 @@ IMMEDIATE — 0 TO 30 DAYS
 5. Identify products with high revenue but weak margins.
 6. Add profit margin and profit-per-order monitoring to regular reporting.
 
-SHORT TERM — 30 TO 60 DAYS
+SHORT TERM 30 TO 60 DAYS
 
 1. Test revised discount levels.
 2. Reassess product pricing.
@@ -615,8 +564,7 @@ SHORT TERM — 30 TO 60 DAYS
 5. Compare profitability across channels.
 6. Review regional performance and identify underperforming markets.
 
-MEDIUM TERM — 60 TO 90 DAYS
-
+MEDIUM TERM 60 TO 90 DAYS
 1. Build a repeatable profitability monitoring system.
 2. Establish discount approval thresholds.
 3. Create channel-level profitability targets.
@@ -624,11 +572,8 @@ MEDIUM TERM — 60 TO 90 DAYS
 5. Use the dashboard as a recurring management reporting tool.
 
 18. DASHBOARD DESIGN
-
 The dashboard was designed to give management a concise view of H1 versus H2 performance.
-
 The dashboard includes:
-
 - H2 Profit KPI
 - H2 Revenue KPI
 - Profit Margin KPI
@@ -641,9 +586,7 @@ The dashboard includes:
 - Recommendations section
 
 The purpose of the dashboard is to move management from raw transaction-level data to actionable business decisions.
-
 Rather than presenting only charts, the dashboard highlights the business story:
-
 Revenue declined.
 Profit declined much faster.
 Online orders increased while online profit declined.
@@ -652,9 +595,7 @@ Some products sold more units while generating less profit.
 Discounting requires review.
 
 19. BUSINESS IMPACT
-
 The investigation changes the way NovaMart's performance should be evaluated.
-
 A basic sales report might focus on:
 
 - Number of orders
